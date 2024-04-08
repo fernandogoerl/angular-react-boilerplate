@@ -1,7 +1,7 @@
-import { Component } from "@angular/core";
+import {Component} from '@angular/core';
 
 @Component({
-  selector: "how-to",
+  selector: 'how-to',
   template: `
 To enable the above, you must use Angular 14+
 <hr/>
@@ -94,7 +94,6 @@ export class AppCompnent {{'{'}}
     name: 'MyReact Component'
   }
 }</pre>
-  `
+  `,
 })
-export class HowToComponent {
-}
+export class HowToComponent {}
